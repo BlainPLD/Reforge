@@ -3,9 +3,9 @@ Scripting that helps modify existing items in FFXI.
 
 The Goal:
 ========================================================
-My aim here is to take an item:
-Pixie Earring with an item ID of 13415
-Lets make this into something a bit more interesting.
+My aim here is to take an item:  
+Pixie Earring with an item ID of 13415  
+Lets make this into something a bit more interesting.  
 
 13415, STR+5 DEX+5 Accuracy+10 Slow+3%
 
