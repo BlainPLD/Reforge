@@ -1,5 +1,9 @@
 # Reforge
-Scripting that helps modify existing items in FFXI. 
+Scripting that helps modify existing items in FFXI.
+
+The default location for FFXI install is:
+C:\Program Files (x86)\PlayOnline\SquareEnix\FINAL FANTASY XI
+If this is different for you, the only place you need to change the path is in the Package\Start.bat
 
 Files needed and not included. 
 Package/Armor_10240-16386_Item.json
