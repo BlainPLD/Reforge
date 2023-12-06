@@ -2,5 +2,8 @@
 Package/Pickle_Backups/*
 Package/Armor_10240-16386_Item.json
 Package/Weapons_16384-23039_Item.json
-!output
-output/*/
+!output/
+!output/output_move.bat
+output/*
+!input
+input/*
