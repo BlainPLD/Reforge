@@ -95,7 +95,7 @@ $Additional effect vs. vermin:  "Stun"
 $In areas under own nation's control:\\nAccuracy+10 Attack+10 Haste+1%
 $In areas outside own nation's control:\\nConverts 40 MP to HP
 
-Note that the formatting needs to be correct after the $. Capitalization, spacing, and " need to be present. 
+Note that the formatting needs to be correct after the "$". Capitalization, spacing, and " need to be present. 
 Also, adding in \\n after about 35-38 characters is needed to make the tooltip formatting correct in the DAT files. 
 Very little post processing happens after the $, so be sure that all this information is correct.
 
